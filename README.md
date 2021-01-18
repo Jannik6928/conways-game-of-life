@@ -7,7 +7,7 @@
 
 Refer to the link below if you want to know the rules
 
-[I'm an inline-style link with title](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "Wikipedia Page")
+[Wikipedia Link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "Wikipedia Page")
 
 ## Screenshots
 
