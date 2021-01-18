@@ -11,5 +11,5 @@ Refer to the link below if you want to know the rules
 
 ## Screenshots
 
-![Alt text](screenshots/before.png?raw=true "Before")
-![Alt text](screenshots/after.png?raw=true "After")
+![Alt text](screenshots/before.PNG?raw=true "Before")
+![Alt text](screenshots/after.PNG?raw=true "After")
